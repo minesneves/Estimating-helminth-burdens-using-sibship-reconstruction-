@@ -8,3 +8,5 @@ The attached code can be used to implement the statistical approach described in
 ## Shiny App
 
 You can also try our user-friendly web application [here](https://minesneves.shinyapps.io/shiny_pv/).
+
+![image](Shiny_pv.png)
